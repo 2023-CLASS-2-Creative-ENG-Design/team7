@@ -1,0 +1,7 @@
+#define mySSID1 "KT_GiGA_2G_Wave2_1234"
+#define myPASS1 "ef44hd1234"
+#define mySSID2 "electron"
+#define myPASS2 "electron1234"
+#define mySSID3 "iPhone6K"
+#define myPASS3 "12345678"
+#define thingSpeak_Pot "FXHK9RZUSLY81234"
